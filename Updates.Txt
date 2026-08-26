@@ -1,1 +1,4 @@
-
+0.1
+Se corrigió un bug, el cual permitía ponerle una descripción a un tema de sonido, cosa que no debe ser posible.
+Se corrigió, digamos que, un bug, el cual.  cuando hacías cambios en las configuraciones de la tienda de complementos, automáticamente afectaban a la tienda de temas de sonido. Ahora eso ya no pasa más.
+https://raw.githubusercontent.com/Elimpaciente/Temas-de-sonido-/main/sounds.zip
