@@ -1,3 +1,5 @@
-1.2
-La gestión del servidor está completa. Actualiza para disfrutar. 
+1.3
+La tienda de temas de sonido se actualiza., Este es un cambio impresionante; aquí les va.
+A partir de ahora, cualquier persona que tenga temas de sonido y un usuario, podrá subir cualquier tema de sonido que quiera de manera gratuita. Simplemente pueden crear un perfil usando el botón “Crear perfil”, poner un nombre público o, automáticamente, utilizar el nombre de usuario que tengan en el lector. Nota que, si ponen un nombre público, se usará el nombre de usuario del lector para autenticación.Por eso se les recomienda tener un usuario creado en el lector. Pero eso sí, no se permite subir temas de sonidos que ya han sido subidos.
+Ahora sí, sin más que decir, disfruten de esta hermosa actualización y de esta nueva iniciativa, claro, sub iniciativa.
 https://raw.githubusercontent.com/Elimpaciente/Temas-de-sonido-/main/sounds.zip
